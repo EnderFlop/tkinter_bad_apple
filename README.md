@@ -6,7 +6,7 @@ Programmed by me after a vision I received in a dream I think.
 
 Song by ZUN
 
-Tkinter does not want to be used as a screen, so if run at "high" resolutions it must run on a very slow frame rate. The program can run on a 48:27 pixel screen at near 30 frames a second, struggling on the more complex ones. The video was recorded over almost two hours then sped up x30. The audio was added in post.
+Tkinter does not want to be used as a screen, so if run at "high" resolutions it must run on a very slow frame rate. The program can run on a 48:27 pixel screen at near 30 frames a second, struggling on the more complex ones. The video was recorded in 96x54 at 1 fps for almost two hours then sped up x30. The audio was added in post.
 
 Link to it in action
 
